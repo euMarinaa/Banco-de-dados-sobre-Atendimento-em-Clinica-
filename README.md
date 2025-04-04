@@ -17,7 +17,7 @@ Armazena informações dos pacientes:
   
 ---
 
-⏩ Codigo de ciação da tabela Pacientes
+⏩ Criação da tabela Pacientes
 ```sql
 CREATE TABLE Pacientes ( 
     id INT IDENTITY(1,1) PRIMARY KEY, 
